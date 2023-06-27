@@ -9,6 +9,8 @@
 ![ER다이어그램](https://github.com/sujeong-github/backend/assets/131344364/dc35055c-dd03-414c-ac15-aa03da6a42c9)
 <br>
 <br>
+![db_ER](https://github.com/sujeong-github/backend/assets/131344364/8c6a5c21-c697-464a-84a4-5c8963d2b90f)
+
 #3. 구성
 
 
