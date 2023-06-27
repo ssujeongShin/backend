@@ -20,7 +20,7 @@
 #4. Work-Flow
 <br/>
 <br/>
-![work-flow](https://github.com/sujeong-github/backend/assets/131344364/ba30cd10-5cc0-4994-b122-350a7e04949d)
+![work-flow](https://github.com/sujeong-github/backend/assets/131344364/56904689-2c33-4b67-baba-19fd8592259b)
 <br/>
 <br/>
 
