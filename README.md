@@ -11,9 +11,12 @@
 <br/>
 
 #3. 구성
-
-
-
+<br/>
+<br/>
+![image](https://github.com/sujeong-github/backend/assets/131344364/40f13371-9a6e-49be-bc89-b89df7bf9417)
+<br/>
+<br/>
 #4. Work-Flow
+
 
 #6. 프로젝트 시연
