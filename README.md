@@ -16,8 +16,12 @@
 ![image](https://github.com/sujeong-github/backend/assets/131344364/40f13371-9a6e-49be-bc89-b89df7bf9417)
 <br/>
 <br/>
-#4. Work-Flow
-![work-flow](https://github.com/sujeong-github/backend/assets/131344364/ba30cd10-5cc0-4994-b122-350a7e04949d)
 
+#4. Work-Flow
+<br/>
+<br/>
+![work-flow](https://github.com/sujeong-github/backend/assets/131344364/ba30cd10-5cc0-4994-b122-350a7e04949d)
+<br/>
+<br/>
 
 #6. 프로젝트 시연
